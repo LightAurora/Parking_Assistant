@@ -44,5 +44,4 @@ You can customize the code according to your preferences:
 
 ## Author
 
-Midy Voong 
-Date of upload: February 04 2024
+Midy Voong
